@@ -11,6 +11,7 @@
 		2D88204E291693D50087C185 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D88204D291693D50087C185 /* ContentView.swift */; };
 		2D882050291693D90087C185 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D88204F291693D90087C185 /* Assets.xcassets */; };
 		2D882053291693D90087C185 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D882052291693D90087C185 /* Preview Assets.xcassets */; };
+		2D88205A2916ADEA0087C185 /* UISliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D8820592916ADEA0087C185 /* UISliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2D88204D291693D50087C185 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2D88204F291693D90087C185 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D882052291693D90087C185 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2D8820592916ADEA0087C185 /* UISliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2D88204B291693D50087C185 /* SB_HW_3_4_SwiftUI_Hosting_UIKit_SliderApp.swift */,
 				2D88204D291693D50087C185 /* ContentView.swift */,
+				2D8820592916ADEA0087C185 /* UISliderView.swift */,
 				2D88204F291693D90087C185 /* Assets.xcassets */,
 				2D882051291693D90087C185 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				2D88204E291693D50087C185 /* ContentView.swift in Sources */,
 				2D88204C291693D50087C185 /* SB_HW_3_4_SwiftUI_Hosting_UIKit_SliderApp.swift in Sources */,
+				2D88205A2916ADEA0087C185 /* UISliderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
